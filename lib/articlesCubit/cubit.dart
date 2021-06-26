@@ -1,5 +1,3 @@
-import 'package:flutter/cupertino.dart';
-import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:nyt_best_stories/articlesCubit/states.dart';
 import 'package:nyt_best_stories/models/article_model.dart';

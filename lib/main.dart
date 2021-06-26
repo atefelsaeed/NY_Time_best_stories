@@ -3,7 +3,7 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:nyt_best_stories/articlesCubit/cubit.dart';
 import 'package:nyt_best_stories/articlesCubit/states.dart';
 
-import 'modules/home/business_screen.dart';
+import 'modules/home/home_screen.dart';
 import 'shared/network/local/cache_helper.dart';
 import 'shared/network/remote/dio_helper.dart';
 
