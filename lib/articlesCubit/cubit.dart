@@ -3,16 +3,17 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:nyt_best_stories/articlesCubit/states.dart';
 import 'package:nyt_best_stories/models/article_model.dart';
-import 'package:nyt_best_stories/modules/business/business_screen.dart';
+
 import 'package:nyt_best_stories/shared/network/remote/dio_helper.dart';
 
 class ArticlesCubit extends Cubit<ArticlesStates> {
   ArticlesCubit() : super(ArticlesInitialState());
 
   static ArticlesCubit get(context) => BlocProvider.of(context);
+
   // List<dynamic> business = [];
 
- ArticleDataModel articleDataModel=ArticleDataModel();
+  ArticleDataModel articleDataModel = ArticleDataModel();
 
   void getBusiness() {
     emit(ArticlesGetBusinessLoadingState());
@@ -24,7 +25,7 @@ class ArticlesCubit extends Cubit<ArticlesStates> {
       },
     ).then((value) {
       // business = value.data['results'];
-      articleDataModel=ArticleDataModel.fromJson(value.data);
+      articleDataModel = ArticleDataModel.fromJson(value.data);
       emit(ArticlesGetBusinessSuccessState());
     }).catchError((error) {
       print(error.toString());

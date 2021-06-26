@@ -4,7 +4,7 @@ import 'package:nyt_best_stories/articlesCubit/cubit.dart';
 import 'package:nyt_best_stories/articlesCubit/states.dart';
 import 'package:nyt_best_stories/shared/components/components.dart';
 
-class BusinessScreen extends StatelessWidget {
+class HomeScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return BlocConsumer<ArticlesCubit, ArticlesStates>(

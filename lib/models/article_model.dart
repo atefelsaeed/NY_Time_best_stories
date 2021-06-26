@@ -55,12 +55,12 @@ class ArticleDataModel {
   List<Results>? results;
 
   ArticleDataModel(
-      { this.status,
-         this.copyright,
-         this.section,
-       this.lastUpdated,
-          this.numResults,
-         this.results});
+      {this.status,
+      this.copyright,
+      this.section,
+      this.lastUpdated,
+      this.numResults,
+      this.results});
 
   ArticleDataModel.fromJson(Map<String, dynamic> json) {
     status = json['status'];
@@ -69,7 +69,7 @@ class ArticleDataModel {
     lastUpdated = json['last_updated'];
     numResults = json['num_results'];
     if (json['results'] != null) {
-      results =<Results>[];
+      results = <Results>[];
       json['results'].forEach((v) {
         results!.add(new Results.fromJson(v));
       });
@@ -92,46 +92,45 @@ class ArticleDataModel {
 
 class Results {
   String? section;
-  String ?subsection;
-  String ?title;
-  String ?abstract;
-  String ?url;
-  String ?uri;
-  String ?byline;
-  String ?itemType;
-  String ?updatedDate;
-  String ?createdDate;
-  String ?publishedDate;
-  String ?materialTypeFacet;
-  String ?kicker;
+  String? subsection;
+  String? title;
+  String? abstract;
+  String? url;
+  String? uri;
+  String? byline;
+  String? itemType;
+  String? updatedDate;
+  String? createdDate;
+  String? publishedDate;
+  String? materialTypeFacet;
+  String? kicker;
   List<String>? desFacet;
-  List<String> ?orgFacet;
-  List<String> ?perFacet;
-  List<String> ?geoFacet;
+  List<String>? orgFacet;
+  List<String>? perFacet;
+  List<String>? geoFacet;
   List<Multimedia>? multimedia;
-  String ?shortUrl;
+  String? shortUrl;
 
   Results(
-      {
-        required this.section,
-        required this.subsection,
-        required this.title,
-        required this.abstract,
-        required this.url,
-        required this.uri,
-        required this.byline,
-        required this.itemType,
-        required this.updatedDate,
-        required  this.createdDate,
-        required  this.publishedDate,
-        required  this.materialTypeFacet,
-        required  this.kicker,
-        required  this.desFacet,
-        required  this.orgFacet,
-        required  this.perFacet,
-        required  this.geoFacet,
-        required  this.multimedia,
-        required  this.shortUrl});
+      {this.section,
+      this.subsection,
+      this.title,
+      this.abstract,
+      this.url,
+      this.uri,
+      this.byline,
+      this.itemType,
+      this.updatedDate,
+      this.createdDate,
+      this.publishedDate,
+      this.materialTypeFacet,
+      this.kicker,
+      this.desFacet,
+      this.orgFacet,
+      this.perFacet,
+      this.geoFacet,
+      this.multimedia,
+      this.shortUrl});
 
   Results.fromJson(Map<String, dynamic> json) {
     section = json['section'];
@@ -188,25 +187,24 @@ class Results {
 }
 
 class Multimedia {
-  String ?url;
-  String ?format;
-  int ?height;
-  int ?width;
+  String? url;
+  String? format;
+  int? height;
+  int? width;
   String? type;
-  String ?subtype;
-  String ?caption;
-  String ?copyright;
+  String? subtype;
+  String? caption;
+  String? copyright;
 
   Multimedia(
-      {
-        required this.url,
-        required this.format,
-        required   this.height,
-        required  this.width,
-        required  this.type,
-        required  this.subtype,
-        required  this.caption,
-        required  this.copyright});
+      {this.url,
+      this.format,
+      this.height,
+      this.width,
+      this.type,
+      this.subtype,
+      this.caption,
+      this.copyright});
 
   Multimedia.fromJson(Map<String, dynamic> json) {
     url = json['url'];
