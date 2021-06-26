@@ -109,8 +109,7 @@ Widget myDivider() => Container(
   color: Colors.grey[300],
 );
 
-Widget articleBuilder(ArticleDataModel articleDataModel, context,
-        {isSearch = false}) =>
+Widget articleBuilder(ArticleDataModel articleDataModel, context,) =>
     ConditionalBuilder(
       condition: articleDataModel.results!.length > 0,
       builder: (context) => ListView.separated(
@@ -220,7 +219,7 @@ Widget articleBuilder(ArticleDataModel articleDataModel, context,
         separatorBuilder: (context, index) => Container(),
         itemCount: articleDataModel.results!.length,
       ),
-      fallback: (context) => isSearch
+      fallback: (context) => articleDataModel==null
           ? Container()
           : Center(
               child: CircularProgressIndicator(),

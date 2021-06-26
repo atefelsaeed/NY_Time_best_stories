@@ -60,7 +60,7 @@ class ArticleDataModel {
       this.section,
       this.lastUpdated,
       this.numResults,
-      this.results});
+       this.results});
 
   ArticleDataModel.fromJson(Map<String, dynamic> json) {
     status = json['status'];

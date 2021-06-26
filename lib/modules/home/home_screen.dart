@@ -14,13 +14,15 @@ class HomeScreen extends StatelessWidget {
 
         // var list = ArticlesCubit.get(context).business;
         return Scaffold(
-          appBar: AppBar(
-            title: Text(
-              'NYT Best Stories'
+            appBar: AppBar(
+              title: Text('NYT Best Stories'),
             ),
-          ),
-          body: articleBuilder(list, context),
-        );
+            body: list == null
+                ?  Center(child: CircularProgressIndicator()):Container(
+              color: Colors.grey[200],
+              child: articleBuilder(list, context),
+            )
+                );
       },
     );
   }

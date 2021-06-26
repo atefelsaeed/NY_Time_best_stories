@@ -11,7 +11,7 @@ class ArticlesCubit extends Cubit<ArticlesStates> {
 
   // List<dynamic> business = [];
 
-  ArticleDataModel articleDataModel = ArticleDataModel();
+  ArticleDataModel? articleDataModel ;
 
   void getBusiness() {
     emit(ArticlesGetBusinessLoadingState());
