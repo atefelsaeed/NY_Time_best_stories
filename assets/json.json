@@ -1,0 +1,3452 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2021 The New York Times Company. All Rights Reserved.",
+  "section": "home",
+  "last_updated": "2021-06-25T08:29:14-04:00",
+  "num_results": 42,
+  "results": [
+    {
+      "section": "us",
+      "subsection": "",
+      "title": "Scenes From the Tragic Condo Collapse",
+      "abstract": "Ninety-nine people were still unaccounted for after a residential building collapsed in the beachfront community.",
+      "url": "https://www.nytimes.com/2021/06/24/us/miami-building-collapse-photos.html",
+      "uri": "nyt://article/6896dd9b-ea0f-5945-90fd-c17fd91db61b",
+      "byline": "By The New York Times",
+      "item_type": "Article",
+      "updated_date": "2021-06-25T05:29:56-04:00",
+      "created_date": "2021-06-24T20:44:38-04:00",
+      "published_date": "2021-06-24T20:44:38-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Disasters and Emergencies",
+        "Photography",
+        "Surfside, Fla, Building Collapse (2021)",
+        "Buildings (Structures)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Surfside (Fla)",
+        "Miami (Fla)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/07/22/us/22MIAMI-PHOTO-1/merlin_189834189_51fc8f5d-6985-441f-a284-5537799b0f57-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Maria Alejandra Cardona for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/07/22/us/22MIAMI-PHOTO-1/merlin_189834189_51fc8f5d-6985-441f-a284-5537799b0f57-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Maria Alejandra Cardona for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/07/22/us/22MIAMI-PHOTO-1/merlin_189834189_51fc8f5d-6985-441f-a284-5537799b0f57-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Maria Alejandra Cardona for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/07/22/us/22MIAMI-PHOTO-1/merlin_189834189_51fc8f5d-6985-441f-a284-5537799b0f57-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Maria Alejandra Cardona for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/07/22/us/22MIAMI-PHOTO-1/merlin_189834189_51fc8f5d-6985-441f-a284-5537799b0f57-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Maria Alejandra Cardona for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3zT2h6i"
+    },
+    {
+      "section": "us",
+      "subsection": "",
+      "title": "Rescuers may have learned from the Oklahoma City bombing and the Sept. 11 attacks.",
+      "abstract": "",
+      "url": "https://www.nytimes.com/live/2021/06/25/us/miami-beach-building-collapse/rescuers-may-have-learned-from-the-oklahoma-city-bombing-and-the-sept-11-attacks",
+      "uri": "nyt://article/8b53bb65-816b-5906-8da3-28bdcb5bc238",
+      "byline": "By Manny Fernandez",
+      "item_type": "Article",
+      "updated_date": "2021-06-25T05:58:05-04:00",
+      "created_date": "2021-06-25T05:58:05-04:00",
+      "published_date": "2021-06-25T05:58:05-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/lens/25miami-building-collapse-briefing-search-and-rescue1/merlin_189850740_81d3685a-30af-4c71-aa0b-7d33423bf0e1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Search-and-rescue personnel worked at the collapse site on Thursday evening.",
+          "copyright": "Chandan Khanna/Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/lens/25miami-building-collapse-briefing-search-and-rescue1/25miami-building-collapse-briefing-search-and-rescue1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Search-and-rescue personnel worked at the collapse site on Thursday evening.",
+          "copyright": "Chandan Khanna/Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/lens/25miami-building-collapse-briefing-search-and-rescue1/25miami-building-collapse-briefing-search-and-rescue1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Search-and-rescue personnel worked at the collapse site on Thursday evening.",
+          "copyright": "Chandan Khanna/Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/lens/25miami-building-collapse-briefing-search-and-rescue1/merlin_189850740_81d3685a-30af-4c71-aa0b-7d33423bf0e1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Search-and-rescue personnel worked at the collapse site on Thursday evening.",
+          "copyright": "Chandan Khanna/Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/lens/25miami-building-collapse-briefing-search-and-rescue1/merlin_189850740_81d3685a-30af-4c71-aa0b-7d33423bf0e1-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Search-and-rescue personnel worked at the collapse site on Thursday evening.",
+          "copyright": "Chandan Khanna/Agence France-Presse — Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/3demnhx"
+    },
+    {
+      "section": "us",
+      "subsection": "",
+      "title": "What to Know About the Building Collapse in Surfside, Fla.",
+      "abstract": "A large rescue effort was underway in Miami-Dade County. At least four people were killed and as many as 159 were unaccounted for, the police said.",
+      "url": "https://www.nytimes.com/2021/06/24/us/miami-surfside-building-collapse.html",
+      "uri": "nyt://article/0904cb05-3628-5c0e-84a3-6653f2f0f3cb",
+      "byline": "By The New York Times",
+      "item_type": "Article",
+      "updated_date": "2021-06-25T08:22:49-04:00",
+      "created_date": "2021-06-24T04:49:41-04:00",
+      "published_date": "2021-06-24T04:49:41-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Buildings (Structures)",
+        "Accidents and Safety",
+        "Rescues"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Miami (Fla)",
+        "Surfside (Fla)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/07/24/world/24xp-surfside-vid-PROMO/merlin_189827664_7d12247a-235e-456b-96d0-ec743d00863a-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Maria Alejandra Cardona for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/07/24/world/24xp-surfside-vid-PROMO/24xp-surfside-vid-PROMO-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Maria Alejandra Cardona for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/07/24/world/24xp-surfside-vid-PROMO/24xp-surfside-vid-PROMO-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Maria Alejandra Cardona for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/07/24/world/24xp-surfside-vid-PROMO/merlin_189827664_7d12247a-235e-456b-96d0-ec743d00863a-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Maria Alejandra Cardona for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/07/24/world/24xp-surfside-vid-PROMO/merlin_189827664_7d12247a-235e-456b-96d0-ec743d00863a-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Maria Alejandra Cardona for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3jaKxxs"
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "They Seemed Like Democratic Activists. They Were Secretly Conservative Spies.",
+      "abstract": "Operatives infiltrated progressive groups across the West to try to manipulate politics and reshape the national electoral map. They targeted moderate Republicans, too — anyone seen as threats to hard-line conservatives.",
+      "url": "https://www.nytimes.com/2021/06/25/us/politics/spies-conservatives-left-political-enemies.html",
+      "uri": "nyt://article/d2032799-5f12-500b-a428-50bca7e52f32",
+      "byline": "By Mark Mazzetti and Adam Goldman",
+      "item_type": "Article",
+      "updated_date": "2021-06-25T07:32:56-04:00",
+      "created_date": "2021-06-25T03:00:14-04:00",
+      "published_date": "2021-06-25T03:00:14-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Presidential Election of 2020",
+        "Espionage and Intelligence Services",
+        "Endorsements",
+        "Campaign Finance",
+        "United States Politics and Government",
+        "Conservatism (US Politics)"
+      ],
+      "org_facet": [
+        "Democratic Party",
+        "Project Veritas"
+      ],
+      "per_facet": [
+        "Beck, Glenn",
+        "DeVos, Elizabeth (1958- )",
+        "Friess, Foster S",
+        "Seddon, Richard",
+        "Trump, Donald J",
+        "Maier, Beau",
+        "LaRocca, Sofia",
+        "Gore, Susan (1939- )"
+      ],
+      "geo_facet": [
+        "Arizona",
+        "Colorado",
+        "Wyoming"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/us/politics/25dc-spies-wyoming-top1/25dc-spies-wyoming-top1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A Democratic primary debate in Las Vegas in February 2020.",
+          "copyright": "Erin Schaff/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/us/politics/25dc-spies-wyoming-top1/25dc-spies-wyoming-top1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A Democratic primary debate in Las Vegas in February 2020.",
+          "copyright": "Erin Schaff/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/us/politics/25dc-spies-wyoming-top1/25dc-spies-wyoming-top1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A Democratic primary debate in Las Vegas in February 2020.",
+          "copyright": "Erin Schaff/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/us/politics/25dc-spies-wyoming-top1/25dc-spies-wyoming-top1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A Democratic primary debate in Las Vegas in February 2020.",
+          "copyright": "Erin Schaff/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/us/politics/25dc-spies-wyoming-top1/25dc-spies-wyoming-top1-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A Democratic primary debate in Las Vegas in February 2020.",
+          "copyright": "Erin Schaff/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3h043eF"
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "Pence, Diverging From Trump, Says He Was ‘Proud’ to Certify Election",
+      "abstract": "In a speech, former Vice President Mike Pence went the furthest he has gone yet in distancing himself from Donald Trump and the Capitol riot. But he still praised the former president and his agenda.",
+      "url": "https://www.nytimes.com/2021/06/24/us/politics/mike-pence-trump.html",
+      "uri": "nyt://article/dd5f78b7-fc92-5450-a158-3cf924aa654e",
+      "byline": "By Annie Karni and Maggie Haberman",
+      "item_type": "Article",
+      "updated_date": "2021-06-24T22:29:58-04:00",
+      "created_date": "2021-06-24T22:19:51-04:00",
+      "published_date": "2021-06-24T22:19:51-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Presidential Election of 2020",
+        "Storming of the US Capitol (Jan, 2021)",
+        "United States Politics and Government",
+        "Voter Fraud (Election Fraud)"
+      ],
+      "org_facet": [
+        "Republican Party"
+      ],
+      "per_facet": [
+        "Pence, Mike",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/06/24/multimedia/24pence/24pence-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Vice President Mike Pence has gone out of his way to praise former President Donald J. Trump, while distancing himself from Mr. Trump’s falsehoods about the 2020 election.",
+          "copyright": "Erin Schaff/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/24/multimedia/24pence/24pence-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Vice President Mike Pence has gone out of his way to praise former President Donald J. Trump, while distancing himself from Mr. Trump’s falsehoods about the 2020 election.",
+          "copyright": "Erin Schaff/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/24/multimedia/24pence/24pence-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Vice President Mike Pence has gone out of his way to praise former President Donald J. Trump, while distancing himself from Mr. Trump’s falsehoods about the 2020 election.",
+          "copyright": "Erin Schaff/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/24/multimedia/24pence/24pence-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Vice President Mike Pence has gone out of his way to praise former President Donald J. Trump, while distancing himself from Mr. Trump’s falsehoods about the 2020 election.",
+          "copyright": "Erin Schaff/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/24/multimedia/24pence/24pence-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Vice President Mike Pence has gone out of his way to praise former President Donald J. Trump, while distancing himself from Mr. Trump’s falsehoods about the 2020 election.",
+          "copyright": "Erin Schaff/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2UslwDq"
+    },
+    {
+      "section": "us",
+      "subsection": "",
+      "title": "Derek Chauvin to Be Sentenced Today for Murder of George Floyd",
+      "abstract": "Mr. Chauvin, the former Minneapolis police officer, may choose to speak at his hearing. He could face decades in prison.",
+      "url": "https://www.nytimes.com/2021/06/25/us/derek-chauvin-sentence.html",
+      "uri": "nyt://article/b6f0a19c-e142-567e-9d4a-3504c44c0ce3",
+      "byline": "By Tim Arango",
+      "item_type": "Article",
+      "updated_date": "2021-06-25T05:00:35-04:00",
+      "created_date": "2021-06-25T05:00:35-04:00",
+      "published_date": "2021-06-25T05:00:35-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Sentences (Criminal)",
+        "Murders, Attempted Murders and Homicides",
+        "Police Brutality, Misconduct and Shootings"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Chauvin, Derek (1976- )",
+        "Floyd, George (d 2020)"
+      ],
+      "geo_facet": [
+        "Minneapolis (Minn)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/us/25chauvin-sentence-web1/merlin_186691524_146185b2-d5c4-4729-95bb-dea645bb9c85-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Minneapolis protesters celebrated in April after Derek Chauvin was convicted of murdering George Floyd.",
+          "copyright": "Victor J. Blue for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/us/25chauvin-sentence-web1/25chauvin-sentence-web1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Minneapolis protesters celebrated in April after Derek Chauvin was convicted of murdering George Floyd.",
+          "copyright": "Victor J. Blue for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/us/25chauvin-sentence-web1/25chauvin-sentence-web1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Minneapolis protesters celebrated in April after Derek Chauvin was convicted of murdering George Floyd.",
+          "copyright": "Victor J. Blue for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/us/25chauvin-sentence-web1/merlin_186691524_146185b2-d5c4-4729-95bb-dea645bb9c85-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Minneapolis protesters celebrated in April after Derek Chauvin was convicted of murdering George Floyd.",
+          "copyright": "Victor J. Blue for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/us/25chauvin-sentence-web1/merlin_186691524_146185b2-d5c4-4729-95bb-dea645bb9c85-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Minneapolis protesters celebrated in April after Derek Chauvin was convicted of murdering George Floyd.",
+          "copyright": "Victor J. Blue for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3h4g4yf"
+    },
+    {
+      "section": "nyregion",
+      "subsection": "",
+      "title": "George Floyd Statue in Brooklyn Is Defaced With Hate Group’s Symbol",
+      "abstract": "The vandalism came just days after the statue was unveiled, and only a day before the officer who killed Mr. Floyd was to be sentenced.",
+      "url": "https://www.nytimes.com/2021/06/24/nyregion/george-floyd-statue-vandalized-brooklyn.html",
+      "uri": "nyt://article/bc90f89b-2874-5c4e-a5d6-e48cf92815a4",
+      "byline": "By Ali Watkins",
+      "item_type": "Article",
+      "updated_date": "2021-06-25T03:02:55-04:00",
+      "created_date": "2021-06-24T19:18:51-04:00",
+      "published_date": "2021-06-24T19:18:51-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Black Lives Matter Movement",
+        "Police Brutality, Misconduct and Shootings",
+        "Black People",
+        "Monuments and Memorials (Structures)",
+        "Hate Crimes",
+        "Vandalism",
+        "Neo Nazi Groups"
+      ],
+      "org_facet": [
+        "Police Department (NYC)",
+        "Southern Poverty Law Center"
+      ],
+      "per_facet": [
+        "Chauvin, Derek (1976- )",
+        "Floyd, George (d 2020)"
+      ],
+      "geo_facet": [
+        "Brooklyn (NYC)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/06/24/nyregion/24NY-FLOYDVANDALISM/merlin_189530301_4d3ca14d-cbd2-44e2-8e07-42ceb61c0c40-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A statue of George Floyd that was unveiled less than a week ago was vandalized and marked with the name of a white supremacist group, Patriot Front. ",
+          "copyright": "David Dee Delgado/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/24/nyregion/24NY-FLOYDVANDALISM/24NY-FLOYDVANDALISM-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A statue of George Floyd that was unveiled less than a week ago was vandalized and marked with the name of a white supremacist group, Patriot Front. ",
+          "copyright": "David Dee Delgado/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/24/nyregion/24NY-FLOYDVANDALISM/24NY-FLOYDVANDALISM-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A statue of George Floyd that was unveiled less than a week ago was vandalized and marked with the name of a white supremacist group, Patriot Front. ",
+          "copyright": "David Dee Delgado/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/24/nyregion/24NY-FLOYDVANDALISM/merlin_189530301_4d3ca14d-cbd2-44e2-8e07-42ceb61c0c40-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A statue of George Floyd that was unveiled less than a week ago was vandalized and marked with the name of a white supremacist group, Patriot Front. ",
+          "copyright": "David Dee Delgado/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/24/nyregion/24NY-FLOYDVANDALISM/merlin_189530301_4d3ca14d-cbd2-44e2-8e07-42ceb61c0c40-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A statue of George Floyd that was unveiled less than a week ago was vandalized and marked with the name of a white supremacist group, Patriot Front. ",
+          "copyright": "David Dee Delgado/Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/3gTwBq3"
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "On Infrastructure, Biden Tests the Limits of Having It Both Ways",
+      "abstract": "The president has long pitched himself as both solidly progressive and committed to bipartisanship. His deal with Republicans, coupled with assurances to liberals, attempts to marry the two.",
+      "url": "https://www.nytimes.com/2021/06/25/us/politics/biden-infrastructure-deal.html",
+      "uri": "nyt://article/6874fe42-3327-5505-8560-372b9ffcbf44",
+      "byline": "By Jim Tankersley",
+      "item_type": "Article",
+      "updated_date": "2021-06-25T05:00:17-04:00",
+      "created_date": "2021-06-25T05:00:17-04:00",
+      "published_date": "2021-06-25T05:00:17-04:00",
+      "material_type_facet": "",
+      "kicker": "news analysis",
+      "des_facet": [
+        "United States Politics and Government",
+        "American Jobs Plan (2021)",
+        "United States Economy",
+        "Taxation",
+        "Law and Legislation",
+        "Federal Taxes (US)",
+        "Infrastructure (Public Works)"
+      ],
+      "org_facet": [
+        "Democratic Party",
+        "Republican Party",
+        "House of Representatives",
+        "Senate"
+      ],
+      "per_facet": [
+        "Biden, Joseph R Jr"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/06/24/us/24dc-biden-strategy01/merlin_189830766_5b37e5dd-cec1-4961-ac77-42b40fe7e25a-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The infrastructure deal that President Biden and moderate senators from both parties cut on Thursday is the prelude to a much more expensive fight.",
+          "copyright": "Pete Marovich for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/24/us/24dc-biden-strategy01/24dc-biden-strategy01-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The infrastructure deal that President Biden and moderate senators from both parties cut on Thursday is the prelude to a much more expensive fight.",
+          "copyright": "Pete Marovich for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/24/us/24dc-biden-strategy01/24dc-biden-strategy01-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The infrastructure deal that President Biden and moderate senators from both parties cut on Thursday is the prelude to a much more expensive fight.",
+          "copyright": "Pete Marovich for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/24/us/24dc-biden-strategy01/24dc-biden-strategy01-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The infrastructure deal that President Biden and moderate senators from both parties cut on Thursday is the prelude to a much more expensive fight.",
+          "copyright": "Pete Marovich for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/24/us/24dc-biden-strategy01/24dc-biden-strategy01-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The infrastructure deal that President Biden and moderate senators from both parties cut on Thursday is the prelude to a much more expensive fight.",
+          "copyright": "Pete Marovich for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2SXC5ac"
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "Biden and Senators Reach Broad Infrastructure Deal",
+      "abstract": "The bipartisan agreement is a significant victory, but Democratic leaders say it can pass only once a far larger social policy bill is complete.",
+      "url": "https://www.nytimes.com/2021/06/24/us/politics/biden-bipartisan-infrastructure.html",
+      "uri": "nyt://article/5a17dbfe-d70a-592b-a195-7a8a81af739e",
+      "byline": "By Jonathan Weisman, Emily Cochrane and Jim Tankersley",
+      "item_type": "Article",
+      "updated_date": "2021-06-25T05:36:32-04:00",
+      "created_date": "2021-06-24T19:25:42-04:00",
+      "published_date": "2021-06-24T19:25:42-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Infrastructure (Public Works)",
+        "Law and Legislation",
+        "American Jobs Plan (2021)",
+        "United States Politics and Government",
+        "United States Economy",
+        "Federal Taxes (US)",
+        "Taxation",
+        "American Families Plan (2021)"
+      ],
+      "org_facet": [
+        "Senate",
+        "Democratic Party",
+        "Republican Party",
+        "House of Representatives"
+      ],
+      "per_facet": [
+        "Biden, Joseph R Jr"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/06/24/us/24dc-infrastructure01sub/merlin_189830757_24574b25-4dc4-4365-b46c-4d9418826306-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Biden met with a bipartisan group of senators on the infrastructure package at the White House on Thursday. “This agreement signals to the world that we can function, deliver and do significant things,” he said.",
+          "copyright": "Pete Marovich for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/24/us/24dc-infrastructure01sub/24dc-infrastructure01sub-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Biden met with a bipartisan group of senators on the infrastructure package at the White House on Thursday. “This agreement signals to the world that we can function, deliver and do significant things,” he said.",
+          "copyright": "Pete Marovich for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/24/us/24dc-infrastructure01sub/24dc-infrastructure01sub-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Biden met with a bipartisan group of senators on the infrastructure package at the White House on Thursday. “This agreement signals to the world that we can function, deliver and do significant things,” he said.",
+          "copyright": "Pete Marovich for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/24/us/24dc-infrastructure01sub/24dc-infrastructure01sub-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Biden met with a bipartisan group of senators on the infrastructure package at the White House on Thursday. “This agreement signals to the world that we can function, deliver and do significant things,” he said.",
+          "copyright": "Pete Marovich for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/24/us/24dc-infrastructure01sub/24dc-infrastructure01sub-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Biden met with a bipartisan group of senators on the infrastructure package at the White House on Thursday. “This agreement signals to the world that we can function, deliver and do significant things,” he said.",
+          "copyright": "Pete Marovich for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3duGicv"
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "Biden Officials Consider Phasing Out Rule That Blocked Migrants During Pandemic",
+      "abstract": "Among the plans under consideration is whether to give migrant families a chance to apply for protections, and to possibly lifting the public health rule for single adults this summer.",
+      "url": "https://www.nytimes.com/2021/06/24/us/politics/biden-title-42-migrants-coronavirus.html",
+      "uri": "nyt://article/55c30896-0698-57d3-b9b8-da57e6be5beb",
+      "byline": "By Eileen Sullivan and Zolan Kanno-Youngs",
+      "item_type": "Article",
+      "updated_date": "2021-06-24T23:50:22-04:00",
+      "created_date": "2021-06-24T20:02:22-04:00",
+      "published_date": "2021-06-24T20:02:22-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Illegal Immigration",
+        "Asylum, Right of",
+        "Presidential Election of 2020"
+      ],
+      "org_facet": [
+        "Border Patrol (US)",
+        "Centers for Disease Control and Prevention",
+        "Health and Human Services Department",
+        "Homeland Security Department"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/06/24/us/politics/24dc-immig-1SWAP2/merlin_185452170_0820e471-6104-4153-b557-24b315ad968d-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Asylum seekers walking toward a Border Patrol checkpoint in March. Under a Trump-era public health rule, border agents are allowed to rapidly turn away most migrants who have arrived at the southern border during the pandemic.",
+          "copyright": "John Moore/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/24/us/politics/24dc-immig-1SWAP2/merlin_185452170_0820e471-6104-4153-b557-24b315ad968d-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Asylum seekers walking toward a Border Patrol checkpoint in March. Under a Trump-era public health rule, border agents are allowed to rapidly turn away most migrants who have arrived at the southern border during the pandemic.",
+          "copyright": "John Moore/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/24/us/politics/24dc-immig-1SWAP2/merlin_185452170_0820e471-6104-4153-b557-24b315ad968d-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Asylum seekers walking toward a Border Patrol checkpoint in March. Under a Trump-era public health rule, border agents are allowed to rapidly turn away most migrants who have arrived at the southern border during the pandemic.",
+          "copyright": "John Moore/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/24/us/politics/24dc-immig-1SWAP2/merlin_185452170_0820e471-6104-4153-b557-24b315ad968d-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Asylum seekers walking toward a Border Patrol checkpoint in March. Under a Trump-era public health rule, border agents are allowed to rapidly turn away most migrants who have arrived at the southern border during the pandemic.",
+          "copyright": "John Moore/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/24/us/politics/24dc-immig-1SWAP2/merlin_185452170_0820e471-6104-4153-b557-24b315ad968d-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Asylum seekers walking toward a Border Patrol checkpoint in March. Under a Trump-era public health rule, border agents are allowed to rapidly turn away most migrants who have arrived at the southern border during the pandemic.",
+          "copyright": "John Moore/Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/3gRLKYH"
+    },
+    {
+      "section": "style",
+      "subsection": "",
+      "title": "The Lesbian Avengers Will Not Be Commodified",
+      "abstract": "At least, not by the Gap.",
+      "url": "https://www.nytimes.com/2021/06/25/style/lesbian-avengers-pride-gap.html",
+      "uri": "nyt://article/894314ad-a1a8-5507-b920-af1ced1e6cf5",
+      "byline": "By Ainara Tiefenthäler",
+      "item_type": "Article",
+      "updated_date": "2021-06-25T05:00:26-04:00",
+      "created_date": "2021-06-25T05:00:26-04:00",
+      "published_date": "2021-06-25T05:00:26-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Homosexuality and Bisexuality",
+        "Demonstrations, Protests and Riots",
+        "Women and Girls",
+        "T-Shirts (Apparel)",
+        "Acquired Immune Deficiency Syndrome"
+      ],
+      "org_facet": [
+        "Act Up",
+        "Gap Inc"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "New York City"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/06/27/fashion/26LESBIAN-AVENGERS-GAP5/26LESBIAN-AVENGERS-GAP5-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1392,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Members of the Lesbian Avengers ate fire during the first Dyke March in 1993 in Washington, D.C.",
+          "copyright": "Carolina Kroon"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/27/fashion/26LESBIAN-AVENGERS-GAP5/26LESBIAN-AVENGERS-GAP5-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Members of the Lesbian Avengers ate fire during the first Dyke March in 1993 in Washington, D.C.",
+          "copyright": "Carolina Kroon"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/27/fashion/26LESBIAN-AVENGERS-GAP5/26LESBIAN-AVENGERS-GAP5-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Members of the Lesbian Avengers ate fire during the first Dyke March in 1993 in Washington, D.C.",
+          "copyright": "Carolina Kroon"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/27/fashion/26LESBIAN-AVENGERS-GAP5/26LESBIAN-AVENGERS-GAP5-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Members of the Lesbian Avengers ate fire during the first Dyke March in 1993 in Washington, D.C.",
+          "copyright": "Carolina Kroon"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/27/fashion/26LESBIAN-AVENGERS-GAP5/26LESBIAN-AVENGERS-GAP5-articleInline.jpg",
+          "format": "Normal",
+          "height": 129,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Members of the Lesbian Avengers ate fire during the first Dyke March in 1993 in Washington, D.C.",
+          "copyright": "Carolina Kroon"
+        }
+      ],
+      "short_url": "https://nyti.ms/3zYLMp9"
+    },
+    {
+      "section": "sports",
+      "subsection": "",
+      "title": "Carl Nassib Is Seeking His Path as an Out Athlete",
+      "abstract": "Nassib, the N.F.L. player who made history this week when he came out as gay, has long yearned to make a difference in the world.",
+      "url": "https://www.nytimes.com/2021/06/25/sports/carl-nassib-football.html",
+      "uri": "nyt://article/5f24196d-684b-5d70-9f6d-b5e6617253b9",
+      "byline": "By Jeré Longman and Alanis Thames",
+      "item_type": "Article",
+      "updated_date": "2021-06-25T06:57:05-04:00",
+      "created_date": "2021-06-25T05:00:26-04:00",
+      "published_date": "2021-06-25T05:00:26-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Football",
+        "Football (College)",
+        "Homosexuality and Bisexuality",
+        "Content Type: Personal Profile",
+        "Hard Knocks (TV Program)"
+      ],
+      "org_facet": [
+        "Cleveland Browns",
+        "Dallas Cowboys",
+        "Las Vegas Raiders",
+        "Tampa Bay Buccaneers",
+        "Pennsylvania State University",
+        "Trevor Project"
+      ],
+      "per_facet": [
+        "Nassib, Carl (1993- )",
+        "O'Brien, Bill (1969- )",
+        "Sam, Michael (1990- )",
+        "Sandusky, Jerry",
+        "Shoop, Bob",
+        "Spanier, Graham B"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/06/26/sports/26nassib-profile-print1/25nassib-profile-1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Carl Nassib with Raiders Coach Jon Gruden before a game last season. “I thought he would run a hospital and be the chief surgeon,” Nassib’s high school coach said.",
+          "copyright": "Ethan Miller/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/26/sports/26nassib-profile-print1/25nassib-profile-1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Carl Nassib with Raiders Coach Jon Gruden before a game last season. “I thought he would run a hospital and be the chief surgeon,” Nassib’s high school coach said.",
+          "copyright": "Ethan Miller/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/26/sports/26nassib-profile-print1/25nassib-profile-1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Carl Nassib with Raiders Coach Jon Gruden before a game last season. “I thought he would run a hospital and be the chief surgeon,” Nassib’s high school coach said.",
+          "copyright": "Ethan Miller/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/26/sports/26nassib-profile-print1/25nassib-profile-1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Carl Nassib with Raiders Coach Jon Gruden before a game last season. “I thought he would run a hospital and be the chief surgeon,” Nassib’s high school coach said.",
+          "copyright": "Ethan Miller/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/26/sports/26nassib-profile-print1/25nassib-profile-1-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Carl Nassib with Raiders Coach Jon Gruden before a game last season. “I thought he would run a hospital and be the chief surgeon,” Nassib’s high school coach said.",
+          "copyright": "Ethan Miller/Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/3zZRYgC"
+    },
+    {
+      "section": "us",
+      "subsection": "",
+      "title": "Pride Celebrations Are Decades Old, but 2021 Will Still Have Some Firsts",
+      "abstract": "From colorful baseball team logos to Vice President Kamala Harris’s historic appearance at a Pride parade, officials and organizations are paying tribute to the L.G.B.T.Q. community in new ways.",
+      "url": "https://www.nytimes.com/2021/06/24/us/june-pride-kamala-harris-miami.html",
+      "uri": "nyt://article/06211495-e29c-5ad9-9243-d18e3e9b40db",
+      "byline": "By Johnny Diaz",
+      "item_type": "Article",
+      "updated_date": "2021-06-24T12:41:14-04:00",
+      "created_date": "2021-06-24T09:01:05-04:00",
+      "published_date": "2021-06-24T09:01:05-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Homosexuality and Bisexuality",
+        "Transgender and Transsexuals",
+        "Demonstrations, Protests and Riots",
+        "Parades"
+      ],
+      "org_facet": [
+        "Stonewall Inn (Manhattan, NY, Bar)"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/06/17/multimedia/00XPPride-LifeguardTower-02/00XPPride-LifeguardTower-02-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Long Beach, Calif., unveiled its new lifeguard tower striped in rainbow colors for L.G.B.T.Q. Pride Month on June 15. It replaced a tower that was burned down by vandals in March.",
+          "copyright": "Frederic J. Brown/Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/17/multimedia/00XPPride-LifeguardTower-02/00XPPride-LifeguardTower-02-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Long Beach, Calif., unveiled its new lifeguard tower striped in rainbow colors for L.G.B.T.Q. Pride Month on June 15. It replaced a tower that was burned down by vandals in March.",
+          "copyright": "Frederic J. Brown/Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/17/multimedia/00XPPride-LifeguardTower-02/00XPPride-LifeguardTower-02-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Long Beach, Calif., unveiled its new lifeguard tower striped in rainbow colors for L.G.B.T.Q. Pride Month on June 15. It replaced a tower that was burned down by vandals in March.",
+          "copyright": "Frederic J. Brown/Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/17/multimedia/00XPPride-LifeguardTower-02/00XPPride-LifeguardTower-02-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Long Beach, Calif., unveiled its new lifeguard tower striped in rainbow colors for L.G.B.T.Q. Pride Month on June 15. It replaced a tower that was burned down by vandals in March.",
+          "copyright": "Frederic J. Brown/Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/17/multimedia/00XPPride-LifeguardTower-02/00XPPride-LifeguardTower-02-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Long Beach, Calif., unveiled its new lifeguard tower striped in rainbow colors for L.G.B.T.Q. Pride Month on June 15. It replaced a tower that was burned down by vandals in March.",
+          "copyright": "Frederic J. Brown/Agence France-Presse — Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/3h50pij"
+    },
+    {
+      "section": "briefing",
+      "subsection": "",
+      "title": "A Road Map to Infrastructure",
+      "abstract": "President Biden and a bipartisan group of senators reached an infrastructure deal. We look at what’s next.",
+      "url": "https://www.nytimes.com/2021/06/25/briefing/infrastructure-bipartisan-agreement-president-biden.html",
+      "uri": "nyt://article/a26b2766-73ee-502b-a0ef-94ff20e54cc9",
+      "byline": "By Ian Prasad Philbrick",
+      "item_type": "Article",
+      "updated_date": "2021-06-25T06:43:46-04:00",
+      "created_date": "2021-06-25T06:40:41-04:00",
+      "published_date": "2021-06-25T06:40:41-04:00",
+      "material_type_facet": "",
+      "kicker": "The Morning Newsletter",
+      "des_facet": [],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/lens/25ambriefing-promo/25ambriefing-infrastructure2-superJumbo-v2.jpg",
+          "format": "superJumbo",
+          "height": 674,
+          "width": 1011,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Biden and a bipartisan group of senators after an infrastructure package meeting at the White House yesterday.",
+          "copyright": "Pete Marovich for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/lens/25ambriefing-promo/25ambriefing-infrastructure2-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Biden and a bipartisan group of senators after an infrastructure package meeting at the White House yesterday.",
+          "copyright": "Pete Marovich for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/lens/25ambriefing-promo/25ambriefing-infrastructure2-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Biden and a bipartisan group of senators after an infrastructure package meeting at the White House yesterday.",
+          "copyright": "Pete Marovich for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/lens/25ambriefing-promo/25ambriefing-infrastructure2-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Biden and a bipartisan group of senators after an infrastructure package meeting at the White House yesterday.",
+          "copyright": "Pete Marovich for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/lens/25ambriefing-promo/25ambriefing-infrastructure2-articleInline-v2.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Biden and a bipartisan group of senators after an infrastructure package meeting at the White House yesterday.",
+          "copyright": "Pete Marovich for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3jhpetZ"
+    },
+    {
+      "section": "podcasts",
+      "subsection": "",
+      "title": "Day X",
+      "abstract": "How a military officer and a faked refugee identity were part of an alleged far-right plot to bring down the German government.",
+      "url": "https://www.nytimes.com/2021/05/19/podcasts/far-right-german-extremism.html",
+      "uri": "nyt://article/147855d7-7938-5610-9b9f-776bcfe108cb",
+      "byline": "By Katrin Bennhold, Lynsea Garrison, Clare Toeniskoetter, Kaitlin Roberts, Larissa Anderson and Mike Benoist",
+      "item_type": "Article",
+      "updated_date": "2021-06-25T06:39:47-04:00",
+      "created_date": "2021-05-19T06:00:06-04:00",
+      "published_date": "2021-05-19T06:00:06-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Right-Wing Extremism and Alt-Right",
+        "Nationalism (Theory and Philosophy)",
+        "Terrorism",
+        "Defense and Military Forces",
+        "Fringe Groups and Movements",
+        "Refugees and Displaced Persons",
+        "audio-neutral-suspenseful",
+        "audio-neutral-immersive",
+        "audio-neutral-informative",
+        "audio-negative-tragedy"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Albrecht, Franco"
+      ],
+      "geo_facet": [
+        "Germany"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/04/27/podcasts/dayx-podcast-albumartwork-briefingsbar/dayx-podcast-albumartwork-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 2048,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/04/27/podcasts/dayx-podcast-albumartwork-briefingsbar/dayx-podcast-albumartwork-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/04/27/podcasts/dayx-podcast-albumartwork-briefingsbar/dayx-podcast-albumartwork-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/04/27/podcasts/dayx-podcast-albumartwork-briefingsbar/dayx-podcast-albumartwork-briefingsbar-mediumThreeByTwo210-v3.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/04/27/podcasts/dayx-podcast-albumartwork-briefingsbar/dayx-podcast-albumartwork-articleInline.jpg",
+          "format": "Normal",
+          "height": 190,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3v12jGd"
+    },
+    {
+      "section": "opinion",
+      "subsection": "",
+      "title": "Exercise, and Accept Your ‘Inevitable Demise’",
+      "abstract": "Alison Bechdel, the cartoonist behind the Bechdel Test, on what exercise reveals about us.",
+      "url": "https://www.nytimes.com/2021/06/24/opinion/sway-kara-swisher-alison-bechdel.html",
+      "uri": "nyt://article/dba7857d-91a4-5b95-a8e7-ca33d365f409",
+      "byline": "By ‘Sway’",
+      "item_type": "Article",
+      "updated_date": "2021-06-24T08:41:22-04:00",
+      "created_date": "2021-06-24T05:00:05-04:00",
+      "published_date": "2021-06-24T05:00:05-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "audio-positive-happy",
+        "Exercise",
+        "Fun Home (Play)",
+        "Medicine and Health",
+        "The Secret to Superhuman Strength (Book)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Bechdel, Alison"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/07/17/opinion/17sway-bechdel/17sway-bechdel-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1619,
+          "width": 1619,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Illustration by The New York Times; photograph by Elena Seibert"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/07/17/opinion/17sway-bechdel/17sway-bechdel-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Illustration by The New York Times; photograph by Elena Seibert"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/07/17/opinion/17sway-bechdel/17sway-bechdel-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Illustration by The New York Times; photograph by Elena Seibert"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/07/17/opinion/17sway-bechdel/17sway-bechdel-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Illustration by The New York Times; photograph by Elena Seibert"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/07/17/opinion/17sway-bechdel/17sway-bechdel-articleInline.jpg",
+          "format": "Normal",
+          "height": 190,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Illustration by The New York Times; photograph by Elena Seibert"
+        }
+      ],
+      "short_url": "https://nyti.ms/3zTwqm8"
+    },
+    {
+      "section": "opinion",
+      "subsection": "",
+      "title": "What I Saw in My First 10 Years on Testosterone",
+      "abstract": "Whether we asked for the job or not, trans people are playing a key role in shaping the future of gender for everyone.",
+      "url": "https://www.nytimes.com/2021/06/25/opinion/transgender-transition-testosterone.html",
+      "uri": "nyt://article/f9ba0db2-194f-50fd-a98c-89dd38beb5dd",
+      "byline": "By Thomas Page McBee",
+      "item_type": "Article",
+      "updated_date": "2021-06-25T07:21:35-04:00",
+      "created_date": "2021-06-25T05:00:26-04:00",
+      "published_date": "2021-06-25T05:00:26-04:00",
+      "material_type_facet": "",
+      "kicker": "Guest Essay",
+      "des_facet": [
+        "Transgender and Transsexuals",
+        "Testosterone",
+        "Men and Boys",
+        "Gender"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/opinion/25mcbee2/merlin_189846942_a3a741cd-e747-4593-bba8-86b46b72572f-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 2048,
+          "width": 1500,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Chantal Anderson for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/opinion/25mcbee2/25mcbee2-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Chantal Anderson for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/opinion/25mcbee2/25mcbee2-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Chantal Anderson for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/opinion/25mcbee2/25mcbee2-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Chantal Anderson for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/opinion/25mcbee2/merlin_189846942_a3a741cd-e747-4593-bba8-86b46b72572f-articleInline.jpg",
+          "format": "Normal",
+          "height": 259,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Chantal Anderson for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2SoxYU2"
+    },
+    {
+      "section": "opinion",
+      "subsection": "",
+      "title": "I Created ‘The X-Files.’ Here’s Why I’m Skeptical of the New U.F.O. Report.",
+      "abstract": "“Could the government actually be telling the truth? Or is the truth above top secret?” asks “X-Files” creator Chris Carter.",
+      "url": "https://www.nytimes.com/2021/06/25/opinion/chris-carter-aliens-ufo-xfiles.html",
+      "uri": "nyt://article/9ac9a1d5-f2e9-571d-bd33-8806267ca58b",
+      "byline": "By Chris Carter",
+      "item_type": "Article",
+      "updated_date": "2021-06-25T08:20:56-04:00",
+      "created_date": "2021-06-25T05:00:19-04:00",
+      "published_date": "2021-06-25T05:00:19-04:00",
+      "material_type_facet": "",
+      "kicker": "Guest Essay",
+      "des_facet": [
+        "Extraterrestrial Life",
+        "Unidentified Flying Objects (UFO)",
+        "Conspiracy Theories",
+        "The X-Files (TV Program)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Carter, Chris C"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/opinion/sunday/25carter/25carter-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 2048,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "E S Kibele Yarman"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/opinion/sunday/25carter/25carter-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "E S Kibele Yarman"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/opinion/sunday/25carter/25carter-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "E S Kibele Yarman"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/opinion/sunday/25carter/25carter-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "E S Kibele Yarman"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/opinion/sunday/25carter/25carter-articleInline.jpg",
+          "format": "Normal",
+          "height": 190,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "E S Kibele Yarman"
+        }
+      ],
+      "short_url": "https://nyti.ms/3j9jdQ4"
+    },
+    {
+      "section": "opinion",
+      "subsection": "",
+      "title": "Where Did the Coronavirus Come From? What We Already Know Is Troubling.",
+      "abstract": "Even if the coronavirus did not emerge from a lab, the groundwork for a potential disaster had been laid for years, and learning its lessons is essential to preventing others.",
+      "url": "https://www.nytimes.com/2021/06/25/opinion/coronavirus-lab.html",
+      "uri": "nyt://article/2eca6111-1984-5b59-b592-fdf8dec423de",
+      "byline": "By Zeynep Tufekci",
+      "item_type": "Article",
+      "updated_date": "2021-06-25T08:23:56-04:00",
+      "created_date": "2021-06-25T05:00:18-04:00",
+      "published_date": "2021-06-25T05:00:18-04:00",
+      "material_type_facet": "",
+      "kicker": "Guest Essay",
+      "des_facet": [
+        "Coronavirus Risks and Safety Concerns",
+        "Laboratories and Scientific Equipment",
+        "Bats",
+        "Wildlife Trade and Poaching",
+        "Coronavirus (2019-nCoV)",
+        "SARS (Severe Acute Respiratory Syndrome)",
+        "Genetic Engineering"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Shi Zhengli",
+        "Daszak, Peter"
+      ],
+      "geo_facet": [
+        "China",
+        "Wuhan (China)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/06/24/opinion/24tufekci/24tufekci-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Yulia Reznikov/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/24/opinion/24tufekci/24tufekci-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Yulia Reznikov/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/24/opinion/24tufekci/24tufekci-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Yulia Reznikov/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/24/opinion/24tufekci/24tufekci-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Yulia Reznikov/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/24/opinion/24tufekci/24tufekci-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Yulia Reznikov/Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/3xOXC3q"
+    },
+    {
+      "section": "opinion",
+      "subsection": "",
+      "title": "Republicans Are Setting Off a ‘Doom Loop’ for Democracy",
+      "abstract": "Voting rights, minority rule and the G.O.P.’s assault on elections.",
+      "url": "https://www.nytimes.com/2021/06/25/opinion/ezra-klein-podcast-ari-berman.html",
+      "uri": "nyt://article/33d11d98-fe58-56a1-b0ca-523c750b4f04",
+      "byline": "By ‘The Ezra Klein Show’",
+      "item_type": "Article",
+      "updated_date": "2021-06-25T05:00:07-04:00",
+      "created_date": "2021-06-25T05:00:07-04:00",
+      "published_date": "2021-06-25T05:00:07-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "State Legislatures",
+        "Voter Registration and Requirements"
+      ],
+      "org_facet": [
+        "Republican Party"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/opinion/25eks-berman-image/25eks-berman-image-superJumbo.png",
+          "format": "superJumbo",
+          "height": 2047,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Illustration by The New York Times; photograph by Photo by Michael Loccisano/Getty Images for Tribeca Film Festival"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/opinion/25eks-berman-image/25eks-berman-image-thumbStandard.png",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Illustration by The New York Times; photograph by Photo by Michael Loccisano/Getty Images for Tribeca Film Festival"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/opinion/25eks-berman-image/25eks-berman-image-thumbLarge.png",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Illustration by The New York Times; photograph by Photo by Michael Loccisano/Getty Images for Tribeca Film Festival"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/opinion/25eks-berman-image/25eks-berman-image-mediumThreeByTwo210.png",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Illustration by The New York Times; photograph by Photo by Michael Loccisano/Getty Images for Tribeca Film Festival"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/opinion/25eks-berman-image/25eks-berman-image-articleInline.png",
+          "format": "Normal",
+          "height": 190,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Illustration by The New York Times; photograph by Photo by Michael Loccisano/Getty Images for Tribeca Film Festival"
+        }
+      ],
+      "short_url": "https://nyti.ms/3dcPou8"
+    },
+    {
+      "section": "opinion",
+      "subsection": "",
+      "title": "America Is Getting Meaner",
+      "abstract": "Tribalism accounts for much of the meanness of the moment.",
+      "url": "https://www.nytimes.com/2021/06/25/opinion/trump-jan-6-america.html",
+      "uri": "nyt://article/82aea961-adc6-5283-a8ab-92f863157c92",
+      "byline": "By Timothy Egan",
+      "item_type": "Article",
+      "updated_date": "2021-06-25T05:37:31-04:00",
+      "created_date": "2021-06-25T05:00:07-04:00",
+      "published_date": "2021-06-25T05:00:07-04:00",
+      "material_type_facet": "",
+      "kicker": "Guest Essay",
+      "des_facet": [
+        "United States Politics and Government",
+        "Storming of the US Capitol (Jan, 2021)"
+      ],
+      "org_facet": [
+        "Republican Party"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/opinion/25egan-lead-second/25egan-lead-second-superJumbo-v3.jpg",
+          "format": "superJumbo",
+          "height": 1396,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Damon Winter/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/opinion/25egan-lead-second/25egan-lead-second-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Damon Winter/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/opinion/25egan-lead-second/25egan-lead-second-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Damon Winter/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/opinion/25egan-lead-second/25egan-lead-second-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Damon Winter/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/opinion/25egan-lead-second/25egan-lead-second-articleInline-v3.jpg",
+          "format": "Normal",
+          "height": 131,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Damon Winter/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3zZp3JV"
+    },
+    {
+      "section": "opinion",
+      "subsection": "",
+      "title": "Opinion Q. and A.: Imran Khan Urges a New U.S.-Pakistan Bond",
+      "abstract": "Pakistan’s prime minister on Afghanistan, India and the future of the relationship with America.",
+      "url": "https://www.nytimes.com/2021/06/25/opinion/imran-khan-pakistan-interview.html",
+      "uri": "nyt://article/dfafe724-305e-5286-9957-0d90808b950b",
+      "byline": "By Yara Bayoumy and Jyoti Thottam",
+      "item_type": "Article",
+      "updated_date": "2021-06-25T05:59:07-04:00",
+      "created_date": "2021-06-25T05:00:15-04:00",
+      "published_date": "2021-06-25T05:00:15-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Terrorism",
+        "Peace Process",
+        "United States International Relations",
+        "United States Defense and Military Forces",
+        "Afghanistan War (2001- )"
+      ],
+      "org_facet": [
+        "Taliban"
+      ],
+      "per_facet": [
+        "Ghani, Ashraf",
+        "Khan, Imran"
+      ],
+      "geo_facet": [
+        "Afghanistan",
+        "Pakistan"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/opinion/25Khan2/25Khan2-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 2048,
+          "width": 1376,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Prime Minister Imran Khan of Pakistan.",
+          "copyright": "Chris Jackson/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/opinion/25Khan2/25Khan2-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Prime Minister Imran Khan of Pakistan.",
+          "copyright": "Chris Jackson/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/opinion/25Khan2/25Khan2-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Prime Minister Imran Khan of Pakistan.",
+          "copyright": "Chris Jackson/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/opinion/25Khan2/25Khan2-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Prime Minister Imran Khan of Pakistan.",
+          "copyright": "Chris Jackson/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/opinion/25Khan2/25Khan2-articleInline.jpg",
+          "format": "Normal",
+          "height": 283,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Prime Minister Imran Khan of Pakistan.",
+          "copyright": "Chris Jackson/Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/3vQnomp"
+    },
+    {
+      "section": "opinion",
+      "subsection": "",
+      "title": "Economics in a Post-Truth Nation",
+      "abstract": "Things are getting better, but many Republicans won’t believe it.",
+      "url": "https://www.nytimes.com/2021/06/24/opinion/economy-truth-republicans.html",
+      "uri": "nyt://article/73264cb4-264b-5ad2-938f-eecdcd206845",
+      "byline": "By Paul Krugman",
+      "item_type": "Article",
+      "updated_date": "2021-06-25T00:22:21-04:00",
+      "created_date": "2021-06-24T19:00:05-04:00",
+      "published_date": "2021-06-24T19:00:05-04:00",
+      "material_type_facet": "",
+      "kicker": "Paul Krugman",
+      "des_facet": [
+        "Economic Conditions and Trends",
+        "United States Economy"
+      ],
+      "org_facet": [
+        "Republican Party",
+        "Democratic Party"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "United States"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/opinion/24krugman-lead-print/24krugman-lead-superJumbo-v2.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Benjamin Norman/Redux"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/opinion/24krugman-lead-print/24krugman-lead-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Benjamin Norman/Redux"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/opinion/24krugman-lead-print/24krugman-lead-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Benjamin Norman/Redux"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/opinion/24krugman-lead-print/24krugman-lead-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Benjamin Norman/Redux"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/opinion/24krugman-lead-print/24krugman-lead-articleInline-v2.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Benjamin Norman/Redux"
+        }
+      ],
+      "short_url": "https://nyti.ms/3xU24hd"
+    },
+    {
+      "section": "opinion",
+      "subsection": "",
+      "title": "How Did a Socialist Triumph in Buffalo?",
+      "abstract": "The backlash against defund-the-police didn't stop India Walton.",
+      "url": "https://www.nytimes.com/2021/06/24/opinion/india-walton-progressive.html",
+      "uri": "nyt://article/3f8a5f75-2b2d-5e14-9d06-d05acf9e0c74",
+      "byline": "By Michelle Goldberg",
+      "item_type": "Article",
+      "updated_date": "2021-06-24T20:04:27-04:00",
+      "created_date": "2021-06-24T20:04:27-04:00",
+      "published_date": "2021-06-24T20:04:27-04:00",
+      "material_type_facet": "",
+      "kicker": "Michelle Goldberg",
+      "des_facet": [
+        "Police Reform",
+        "Police Brutality, Misconduct and Shootings",
+        "Liberalism (US Politics)",
+        "Elections",
+        "Mayors",
+        "Elections, Mayors",
+        "Socialism (Theory and Philosophy)",
+        "Politics and Government",
+        "Primaries and Caucuses"
+      ],
+      "org_facet": [
+        "Democratic Party"
+      ],
+      "per_facet": [
+        "Adams, Eric L",
+        "Walton, India B"
+      ],
+      "geo_facet": [
+        "New York City",
+        "Buffalo (NY)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/06/24/opinion/24goldberg-lead/24goldberg-lead-superJumbo-v2.jpg",
+          "format": "superJumbo",
+          "height": 2048,
+          "width": 1366,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "India Walton, who surprised political handicappers with her victory in Buffalo's Democratic mayoral primary.",
+          "copyright": "Luke Copping"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/24/opinion/24goldberg-lead/24goldberg-lead-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "India Walton, who surprised political handicappers with her victory in Buffalo's Democratic mayoral primary.",
+          "copyright": "Luke Copping"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/24/opinion/24goldberg-lead/24goldberg-lead-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "India Walton, who surprised political handicappers with her victory in Buffalo's Democratic mayoral primary.",
+          "copyright": "Luke Copping"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/24/opinion/24goldberg-lead/24goldberg-lead-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "India Walton, who surprised political handicappers with her victory in Buffalo's Democratic mayoral primary.",
+          "copyright": "Luke Copping"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/24/opinion/24goldberg-lead/24goldberg-lead-articleInline-v2.jpg",
+          "format": "Normal",
+          "height": 285,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "India Walton, who surprised political handicappers with her victory in Buffalo's Democratic mayoral primary.",
+          "copyright": "Luke Copping"
+        }
+      ],
+      "short_url": "https://nyti.ms/2SVGBWJ"
+    },
+    {
+      "section": "opinion",
+      "subsection": "",
+      "title": "Why Is It OK to Be Mean to the Ugly?",
+      "abstract": "Lookism starts, like every form of bigotry, with prejudice and stereotypes.",
+      "url": "https://www.nytimes.com/2021/06/24/opinion/why-is-it-ok-to-be-mean-to-the-ugly.html",
+      "uri": "nyt://article/e540a8a3-2e0e-56ba-bcaa-0d4e73ee20f5",
+      "byline": "By David Brooks",
+      "item_type": "Article",
+      "updated_date": "2021-06-25T00:22:29-04:00",
+      "created_date": "2021-06-24T19:55:58-04:00",
+      "published_date": "2021-06-24T19:55:58-04:00",
+      "material_type_facet": "",
+      "kicker": "David Brooks",
+      "des_facet": [
+        "Discrimination",
+        "Beauty (Concept)",
+        "Race and Ethnicity",
+        "Social Media",
+        "Pagans and Paganism"
+      ],
+      "org_facet": [
+        "Victoria's Secret"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/06/24/opinion/24brooks-lead/24brooks-lead-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Brooke DiDonato/Agence VU, via Re​dux"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/24/opinion/24brooks-lead/24brooks-lead-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Brooke DiDonato/Agence VU, via Re​dux"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/24/opinion/24brooks-lead/24brooks-lead-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Brooke DiDonato/Agence VU, via Re​dux"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/24/opinion/24brooks-lead/24brooks-lead-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Brooke DiDonato/Agence VU, via Re​dux"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/24/opinion/24brooks-lead/24brooks-lead-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Brooke DiDonato/Agence VU, via Re​dux"
+        }
+      ],
+      "short_url": "https://nyti.ms/3vPAekR"
+    },
+    {
+      "section": "opinion",
+      "subsection": "",
+      "title": "Texas Leaders Are Having Problems. Time to Attack the Feds!",
+      "abstract": "The state’s attorney general is trying to distract from his legal troubles by fomenting election-fraud rage.",
+      "url": "https://www.nytimes.com/2021/06/24/opinion/texas-paxton-abbott-wall-election.html",
+      "uri": "nyt://article/e7e37084-0341-5066-80a6-4d88ea794865",
+      "byline": "By Michelle Cottle",
+      "item_type": "Article",
+      "updated_date": "2021-06-25T07:12:10-04:00",
+      "created_date": "2021-06-24T19:55:16-04:00",
+      "published_date": "2021-06-24T19:55:16-04:00",
+      "material_type_facet": "",
+      "kicker": "Michelle Cottle",
+      "des_facet": [
+        "United States Politics and Government",
+        "Presidential Election of 2020",
+        "Conservatism (US Politics)",
+        "Federal-State Relations (US)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Abbott, Gregory W (1957- )",
+        "Paxton, Ken"
+      ],
+      "geo_facet": [
+        "Texas"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/opinion/25cottle-illo/25cottle-illo-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 2048,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Don’t mess with Texas’ attorney general, Ken Paxton, top, or Gov. Greg Abbott, bottom.",
+          "copyright": "Illustration by The New York Times; photographs by Al Drago for The New York Times, Eric Gay/Associated Press, and Sergio Flores/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/opinion/25cottle-illo/25cottle-illo-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Don’t mess with Texas’ attorney general, Ken Paxton, top, or Gov. Greg Abbott, bottom.",
+          "copyright": "Illustration by The New York Times; photographs by Al Drago for The New York Times, Eric Gay/Associated Press, and Sergio Flores/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/opinion/25cottle-illo/25cottle-illo-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Don’t mess with Texas’ attorney general, Ken Paxton, top, or Gov. Greg Abbott, bottom.",
+          "copyright": "Illustration by The New York Times; photographs by Al Drago for The New York Times, Eric Gay/Associated Press, and Sergio Flores/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/opinion/25cottle-illo/25cottle-illo-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Don’t mess with Texas’ attorney general, Ken Paxton, top, or Gov. Greg Abbott, bottom.",
+          "copyright": "Illustration by The New York Times; photographs by Al Drago for The New York Times, Eric Gay/Associated Press, and Sergio Flores/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/opinion/25cottle-illo/25cottle-illo-articleInline.jpg",
+          "format": "Normal",
+          "height": 190,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Don’t mess with Texas’ attorney general, Ken Paxton, top, or Gov. Greg Abbott, bottom.",
+          "copyright": "Illustration by The New York Times; photographs by Al Drago for The New York Times, Eric Gay/Associated Press, and Sergio Flores/Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/3wXfs46"
+    },
+    {
+      "section": "opinion",
+      "subsection": "",
+      "title": "What Jewish Students Need From University Leaders Right Now",
+      "abstract": "Colleges seem reluctant to condemn anti-Semitic speech and assaults.",
+      "url": "https://www.nytimes.com/2021/06/24/opinion/colleges-antisemitism.html",
+      "uri": "nyt://article/66f0b4c8-ea90-5b52-9f34-04429a41315a",
+      "byline": "By Matthew Bronfman",
+      "item_type": "Article",
+      "updated_date": "2021-06-24T15:50:12-04:00",
+      "created_date": "2021-06-24T15:00:06-04:00",
+      "published_date": "2021-06-24T15:00:06-04:00",
+      "material_type_facet": "",
+      "kicker": "Guest Essay",
+      "des_facet": [
+        "Colleges and Universities",
+        "School Discipline (Students)",
+        "Jews and Judaism",
+        "Anti-Semitism",
+        "Cyberharassment",
+        "Academic Freedom",
+        "Discrimination"
+      ],
+      "org_facet": [
+        "Anti-Defamation League",
+        "Hillel, The Foundation for Jewish Campus Life"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Israel",
+        "North America"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/06/24/opinion/sunday/24Bronfman/24Bronfman-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1800,
+          "width": 1800,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jack Felice"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/24/opinion/sunday/24Bronfman/24Bronfman-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jack Felice"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/24/opinion/sunday/24Bronfman/24Bronfman-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jack Felice"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/24/opinion/sunday/24Bronfman/24Bronfman-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jack Felice"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/24/opinion/sunday/24Bronfman/24Bronfman-articleInline.jpg",
+          "format": "Normal",
+          "height": 190,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jack Felice"
+        }
+      ],
+      "short_url": "https://nyti.ms/2SnaFtM"
+    },
+    {
+      "section": "arts",
+      "subsection": "music",
+      "title": "Britney Spears’s Courtroom Plea Spurs Questions for Her Lawyer",
+      "abstract": "The singer said she had not known she needed to petition the court to be released from her conservatorship, placing a focus on the court-appointed counsel who has represented her for 13 years.",
+      "url": "https://www.nytimes.com/2021/06/24/arts/music/britney-spears-lawyer-samuel-ingham.html",
+      "uri": "nyt://article/ab762ee8-40f9-545b-81b4-a1b7d32fa8c4",
+      "byline": "By Joe Coscarelli, Liz Day and Samantha Stark",
+      "item_type": "Article",
+      "updated_date": "2021-06-25T06:14:46-04:00",
+      "created_date": "2021-06-24T18:24:57-04:00",
+      "published_date": "2021-06-24T18:24:57-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Wills and Estates",
+        "Suits and Litigation (Civil)",
+        "Legal Profession",
+        "Pop and Rock Music"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Spears, Britney",
+        "Ingham, Samuel D III"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/06/24/arts/24Britney01/merlin_189839178_bc365010-af34-4d98-9c2c-4d36af8ade6e-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1348,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "When Britney Spears said this week that under the conservatorship, she had been forced to perform and take debilitating medication, she drew attention to the question of whether her lawyer, Samuel D. Ingham III, had done enough to educate and support her.",
+          "copyright": "Gabe Ginsberg/FilmMagic"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/24/arts/24Britney01/24Britney01-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "When Britney Spears said this week that under the conservatorship, she had been forced to perform and take debilitating medication, she drew attention to the question of whether her lawyer, Samuel D. Ingham III, had done enough to educate and support her.",
+          "copyright": "Gabe Ginsberg/FilmMagic"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/24/arts/24Britney01/24Britney01-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "When Britney Spears said this week that under the conservatorship, she had been forced to perform and take debilitating medication, she drew attention to the question of whether her lawyer, Samuel D. Ingham III, had done enough to educate and support her.",
+          "copyright": "Gabe Ginsberg/FilmMagic"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/24/arts/24Britney01/24Britney01-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "When Britney Spears said this week that under the conservatorship, she had been forced to perform and take debilitating medication, she drew attention to the question of whether her lawyer, Samuel D. Ingham III, had done enough to educate and support her.",
+          "copyright": "Gabe Ginsberg/FilmMagic"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/24/arts/24Britney01/merlin_189839178_bc365010-af34-4d98-9c2c-4d36af8ade6e-articleInline.jpg",
+          "format": "Normal",
+          "height": 125,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "When Britney Spears said this week that under the conservatorship, she had been forced to perform and take debilitating medication, she drew attention to the question of whether her lawyer, Samuel D. Ingham III, had done enough to educate and support her.",
+          "copyright": "Gabe Ginsberg/FilmMagic"
+        }
+      ],
+      "short_url": "https://nyti.ms/3jdghC6"
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "‘Red Tourism’ Flourishes in China Ahead of Party Centennial",
+      "abstract": "New and improved attractions dedicated to the Communist Party’s history, or a sanitized version of it, are drawing crowds.",
+      "url": "https://www.nytimes.com/2021/06/25/business/china-centennial-red-tourism.html",
+      "uri": "nyt://article/10412607-d630-5e9d-8940-391b1960c824",
+      "byline": "By Sui-Lee Wee, Elsie Chen and Gilles Sabrié",
+      "item_type": "Article",
+      "updated_date": "2021-06-25T05:00:44-04:00",
+      "created_date": "2021-06-25T05:00:44-04:00",
+      "published_date": "2021-06-25T05:00:44-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Travel and Vacations",
+        "Propaganda",
+        "Amusement and Theme Parks",
+        "Museums",
+        "Politics and Government"
+      ],
+      "org_facet": [
+        "Chinese Nationalist Party (Taiwan)",
+        "Communist Party of China",
+        "Dalian Wanda Group"
+      ],
+      "per_facet": [
+        "Mao Zedong",
+        "Xi Jinping"
+      ],
+      "geo_facet": [
+        "China",
+        "Yan'an (China)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/world/25china-red-tourism-promo/00china-red-tourism-top-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tourists inspecting a sculpture in the Yan’an area, where Mao Zedong and other Chinese Communist Party leaders were based for years.",
+          "copyright": "Gilles Sabrié for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/world/25china-red-tourism-promo/00china-red-tourism-top-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tourists inspecting a sculpture in the Yan’an area, where Mao Zedong and other Chinese Communist Party leaders were based for years.",
+          "copyright": "Gilles Sabrié for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/world/25china-red-tourism-promo/00china-red-tourism-top-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tourists inspecting a sculpture in the Yan’an area, where Mao Zedong and other Chinese Communist Party leaders were based for years.",
+          "copyright": "Gilles Sabrié for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/world/25china-red-tourism-promo/00china-red-tourism-top-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tourists inspecting a sculpture in the Yan’an area, where Mao Zedong and other Chinese Communist Party leaders were based for years.",
+          "copyright": "Gilles Sabrié for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/world/25china-red-tourism-promo/00china-red-tourism-top-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tourists inspecting a sculpture in the Yan’an area, where Mao Zedong and other Chinese Communist Party leaders were based for years.",
+          "copyright": "Gilles Sabrié for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3h5TrcF"
+    },
+    {
+      "section": "nyregion",
+      "subsection": "",
+      "title": "A Brooklyn Ice Cream Shop and the Make-or-Break Summer Ahead",
+      "abstract": "Crème and Cocoa Creamery survived the pandemic. But like many small businesses in New York, its future is hardly secure.",
+      "url": "https://www.nytimes.com/2021/06/25/nyregion/ny-covid-small-business.html",
+      "uri": "nyt://article/1f51a064-ac0e-55ff-b272-66ee5b90ab6d",
+      "byline": "By Corina Knoll",
+      "item_type": "Article",
+      "updated_date": "2021-06-25T05:00:35-04:00",
+      "created_date": "2021-06-25T05:00:35-04:00",
+      "published_date": "2021-06-25T05:00:35-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Shutdowns (Institutional)",
+        "Ice Cream and Frozen Desserts",
+        "Summer (Season)",
+        "Small Business",
+        "Coronavirus (2019-nCoV)",
+        "Coronavirus Reopenings"
+      ],
+      "org_facet": [
+        "Creme and Cocoa"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Brooklyn (NYC)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/06/27/nyregion/27nyreopen-icecream1/00nyreopen-icecream-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u0026ldquo;We\u0026rsquo;re banking on it because last year we lost so much,\u0026rdquo; said Omar Thorpe, one of the owners of Cr\u0026egrave;me and Cocoa.",
+          "copyright": "Malik Rainey for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/27/nyregion/27nyreopen-icecream1/00nyreopen-icecream-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u0026ldquo;We\u0026rsquo;re banking on it because last year we lost so much,\u0026rdquo; said Omar Thorpe, one of the owners of Cr\u0026egrave;me and Cocoa.",
+          "copyright": "Malik Rainey for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/27/nyregion/27nyreopen-icecream1/00nyreopen-icecream-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u0026ldquo;We\u0026rsquo;re banking on it because last year we lost so much,\u0026rdquo; said Omar Thorpe, one of the owners of Cr\u0026egrave;me and Cocoa.",
+          "copyright": "Malik Rainey for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/27/nyregion/27nyreopen-icecream1/00nyreopen-icecream-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u0026ldquo;We\u0026rsquo;re banking on it because last year we lost so much,\u0026rdquo; said Omar Thorpe, one of the owners of Cr\u0026egrave;me and Cocoa.",
+          "copyright": "Malik Rainey for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/27/nyregion/27nyreopen-icecream1/00nyreopen-icecream-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u0026ldquo;We\u0026rsquo;re banking on it because last year we lost so much,\u0026rdquo; said Omar Thorpe, one of the owners of Cr\u0026egrave;me and Cocoa.",
+          "copyright": "Malik Rainey for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3h3wo2m"
+    },
+    {
+      "section": "sports",
+      "subsection": "ncaabasketball",
+      "title": "The Dynamics of College Sports Are Changing. So Are the Business Prospects.",
+      "abstract": "Some digital opportunities didn’t exist even a few years ago, but now are part of what young athletes will be evaluating as they consider where, or whether, to go to college.",
+      "url": "https://www.nytimes.com/2021/06/25/sports/ncaabasketball/ncaa-nil-athletes-endorsements.html",
+      "uri": "nyt://article/9b5911ce-4ff2-54e5-90b7-ffadf680593d",
+      "byline": "By Billy Witz",
+      "item_type": "Article",
+      "updated_date": "2021-06-25T05:00:25-04:00",
+      "created_date": "2021-06-25T05:00:25-04:00",
+      "published_date": "2021-06-25T05:00:25-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Student Athlete Compensation",
+        "Draft and Recruitment (Sports)",
+        "Colleges and Universities",
+        "Basketball (College)"
+      ],
+      "org_facet": [
+        "National Collegiate Athletic Assn"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/06/26/us/26ncaa-recruiting-1/merlin_189247359_f8eedcab-d099-4aa0-9375-c9631494bb28-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dereck Lively II has been considering potential business opportunities as he considers where to play basketball next season \u0026mdash; most likely in college.",
+          "copyright": "Jared Wickerham for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/26/us/26ncaa-recruiting-1/merlin_189247359_f8eedcab-d099-4aa0-9375-c9631494bb28-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dereck Lively II has been considering potential business opportunities as he considers where to play basketball next season \u0026mdash; most likely in college.",
+          "copyright": "Jared Wickerham for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/26/us/26ncaa-recruiting-1/merlin_189247359_f8eedcab-d099-4aa0-9375-c9631494bb28-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dereck Lively II has been considering potential business opportunities as he considers where to play basketball next season \u0026mdash; most likely in college.",
+          "copyright": "Jared Wickerham for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/26/us/26ncaa-recruiting-1/merlin_189247359_f8eedcab-d099-4aa0-9375-c9631494bb28-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dereck Lively II has been considering potential business opportunities as he considers where to play basketball next season \u0026mdash; most likely in college.",
+          "copyright": "Jared Wickerham for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/26/us/26ncaa-recruiting-1/merlin_189247359_f8eedcab-d099-4aa0-9375-c9631494bb28-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dereck Lively II has been considering potential business opportunities as he considers where to play basketball next season \u0026mdash; most likely in college.",
+          "copyright": "Jared Wickerham for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3dfG7BE"
+    },
+    {
+      "section": "us",
+      "subsection": "",
+      "title": "Leonard Crow Dog, Spiritual Leader at Wounded Knee, Dies at 78",
+      "abstract": "He served time in prison after the 1973 occupation on the Pine Ridge reservation and dedicated his life to preserving the traditions of the Sicangu Lakota.",
+      "url": "https://www.nytimes.com/2021/06/23/us/leonard-crow-dog-dead.html",
+      "uri": "nyt://article/3438d270-900d-5463-af69-e802a4d67f10",
+      "byline": "By Annabelle Williams",
+      "item_type": "Article",
+      "updated_date": "2021-06-24T08:50:04-04:00",
+      "created_date": "2021-06-23T16:10:46-04:00",
+      "published_date": "2021-06-23T16:10:46-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Native Americans",
+        "Deaths (Obituaries)"
+      ],
+      "org_facet": [
+        "American Indian Movement"
+      ],
+      "per_facet": [
+        "Crow Dog, Leonard (1942-2021)"
+      ],
+      "geo_facet": [
+        "Pe'Sla (SD)",
+        "South Dakota",
+        "Pine Ridge Indian Reservation (SD)",
+        "Wounded Knee (SD)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/06/24/obituaries/17crowdog1/merlin_189074826_bb2a30b7-304c-4645-9a5c-ce14c2093ce9-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Chief Leonard Crow Dog in 2016. During the Wounded Knee occupation he cared for the injured and served as a mediator with the federal authorities.",
+          "copyright": "Richard Tsong-Taatarii/Star Tribune, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/24/obituaries/17crowdog1/merlin_189074826_bb2a30b7-304c-4645-9a5c-ce14c2093ce9-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Chief Leonard Crow Dog in 2016. During the Wounded Knee occupation he cared for the injured and served as a mediator with the federal authorities.",
+          "copyright": "Richard Tsong-Taatarii/Star Tribune, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/24/obituaries/17crowdog1/merlin_189074826_bb2a30b7-304c-4645-9a5c-ce14c2093ce9-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Chief Leonard Crow Dog in 2016. During the Wounded Knee occupation he cared for the injured and served as a mediator with the federal authorities.",
+          "copyright": "Richard Tsong-Taatarii/Star Tribune, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/24/obituaries/17crowdog1/merlin_189074826_bb2a30b7-304c-4645-9a5c-ce14c2093ce9-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Chief Leonard Crow Dog in 2016. During the Wounded Knee occupation he cared for the injured and served as a mediator with the federal authorities.",
+          "copyright": "Richard Tsong-Taatarii/Star Tribune, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/24/obituaries/17crowdog1/merlin_189074826_bb2a30b7-304c-4645-9a5c-ce14c2093ce9-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Chief Leonard Crow Dog in 2016. During the Wounded Knee occupation he cared for the injured and served as a mediator with the federal authorities.",
+          "copyright": "Richard Tsong-Taatarii/Star Tribune, via Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/3y0oM7N"
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "Ousting Toshiba Chairman, Foreign Investors Score Breakthrough in Japan",
+      "abstract": "While Japan’s corporations have long resisted the entreaties of activist shareholders, Toshiba had come under intense pressure after a series of scandals.",
+      "url": "https://www.nytimes.com/2021/06/25/business/japan-toshiba-chair.html",
+      "uri": "nyt://article/4faf0874-e52f-5f86-af7d-22c4a41f0b83",
+      "byline": "By Ben Dooley",
+      "item_type": "Article",
+      "updated_date": "2021-06-25T07:57:40-04:00",
+      "created_date": "2021-06-25T00:53:26-04:00",
+      "published_date": "2021-06-25T00:53:26-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Shareholder Rights and Activism",
+        "Boards of Directors"
+      ],
+      "org_facet": [
+        "TOSHIBA Corporation"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Japan"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/world/25japan-toshiba/merlin_189640134_d154556f-e8cc-465f-bc13-e96f180c547e-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1364,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Osamu Nagayama, the Toshiba board chairman, in Tokyo this month.",
+          "copyright": "Toshiba, via Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/world/25japan-toshiba/25japan-toshiba-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Osamu Nagayama, the Toshiba board chairman, in Tokyo this month.",
+          "copyright": "Toshiba, via Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/world/25japan-toshiba/25japan-toshiba-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Osamu Nagayama, the Toshiba board chairman, in Tokyo this month.",
+          "copyright": "Toshiba, via Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/world/25japan-toshiba/25japan-toshiba-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Osamu Nagayama, the Toshiba board chairman, in Tokyo this month.",
+          "copyright": "Toshiba, via Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/world/25japan-toshiba/merlin_189640134_d154556f-e8cc-465f-bc13-e96f180c547e-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Osamu Nagayama, the Toshiba board chairman, in Tokyo this month.",
+          "copyright": "Toshiba, via Reuters"
+        }
+      ],
+      "short_url": "https://nyti.ms/3zYgNtl"
+    },
+    {
+      "section": "arts",
+      "subsection": "music",
+      "title": "Grammys Settle With Ousted C.E.O.",
+      "abstract": "The settlement between the Recording Academy, which runs the Grammy Awards, and Deborah Dugan, its former chief executive, came just weeks before arbitration over her dismissal was to begin.",
+      "url": "https://www.nytimes.com/2021/06/25/arts/music/grammys-settle-deborah-dugan.html",
+      "uri": "nyt://article/2ad665d8-fdfa-53ba-91c4-1cae4d9f724d",
+      "byline": "By Ben Sisario",
+      "item_type": "Article",
+      "updated_date": "2021-06-25T08:15:31-04:00",
+      "created_date": "2021-06-25T07:59:27-04:00",
+      "published_date": "2021-06-25T07:59:27-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Grammy Awards",
+        "Music",
+        "Arbitration, Conciliation and Mediation"
+      ],
+      "org_facet": [
+        "Recording Academy"
+      ],
+      "per_facet": [
+        "Dugan, Deborah"
+      ],
+      "geo_facet": [
+        "Los Angeles (Calif)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/multimedia/25grammys-image/merlin_167084094_38511ab8-a297-4238-9b42-001ae679298e-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Deborah Dugan, who joined the Recording Academy as its chief executive in 2019, had sought an open arbitration proceeding after being dismissed last year.  ",
+          "copyright": "Bethany Mollenkof for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/multimedia/25grammys-image/merlin_167084094_38511ab8-a297-4238-9b42-001ae679298e-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Deborah Dugan, who joined the Recording Academy as its chief executive in 2019, had sought an open arbitration proceeding after being dismissed last year.  ",
+          "copyright": "Bethany Mollenkof for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/multimedia/25grammys-image/merlin_167084094_38511ab8-a297-4238-9b42-001ae679298e-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Deborah Dugan, who joined the Recording Academy as its chief executive in 2019, had sought an open arbitration proceeding after being dismissed last year.  ",
+          "copyright": "Bethany Mollenkof for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/multimedia/25grammys-image/merlin_167084094_38511ab8-a297-4238-9b42-001ae679298e-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Deborah Dugan, who joined the Recording Academy as its chief executive in 2019, had sought an open arbitration proceeding after being dismissed last year.  ",
+          "copyright": "Bethany Mollenkof for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/multimedia/25grammys-image/merlin_167084094_38511ab8-a297-4238-9b42-001ae679298e-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Deborah Dugan, who joined the Recording Academy as its chief executive in 2019, had sought an open arbitration proceeding after being dismissed last year.  ",
+          "copyright": "Bethany Mollenkof for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3wXKhWn"
+    },
+    {
+      "section": "us",
+      "subsection": "",
+      "title": "An Iowa County Chooses to Be Named for a Black Professor, Not a Slaveowner",
+      "abstract": "Johnson County selected Lulu Merle Johnson, a Black educator and historian, as its official eponym, replacing Richard Mentor Johnson, the ninth U.S. vice president.",
+      "url": "https://www.nytimes.com/2021/06/24/us/iowa-lulu-merle-johnson-county.html",
+      "uri": "nyt://article/73989625-6110-5ebe-b67d-f357429eeff6",
+      "byline": "By Neil Vigdor",
+      "item_type": "Article",
+      "updated_date": "2021-06-25T00:02:04-04:00",
+      "created_date": "2021-06-24T23:11:07-04:00",
+      "published_date": "2021-06-24T23:11:07-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Black People",
+        "Colleges and Universities",
+        "Discrimination",
+        "Names, Geographical",
+        "Race and Ethnicity",
+        "Women and Girls",
+        "Graduate Schools and Students",
+        "Vice Presidents and Vice Presidency (US)",
+        "Slavery (Historical)",
+        "Awards, Decorations and Honors",
+        "Historically Black Colleges and Universities"
+      ],
+      "org_facet": [
+        "University of Iowa"
+      ],
+      "per_facet": [
+        "Van Buren, Martin",
+        "Lulu Merle Johnson"
+      ],
+      "geo_facet": [
+        "Iowa",
+        "Iowa City (Iowa)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/06/24/multimedia/24xp-merle-johnson-1/24xp-merle-johnson-1-superJumbo-v3.jpg",
+          "format": "superJumbo",
+          "height": 1116,
+          "width": 835,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Lulu Merle Johnson is the latest University of Iowa alumna to have her accomplishments enshrined in memory, becoming the new official eponym for Johnson County.",
+          "copyright": "Family photo"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/24/multimedia/24xp-merle-johnson-1/24xp-merle-johnson-1-thumbStandard-v3.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Lulu Merle Johnson is the latest University of Iowa alumna to have her accomplishments enshrined in memory, becoming the new official eponym for Johnson County.",
+          "copyright": "Family photo"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/24/multimedia/24xp-merle-johnson-1/24xp-merle-johnson-1-thumbLarge-v3.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Lulu Merle Johnson is the latest University of Iowa alumna to have her accomplishments enshrined in memory, becoming the new official eponym for Johnson County.",
+          "copyright": "Family photo"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/24/multimedia/24xp-merle-johnson-1/24xp-merle-johnson-1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Lulu Merle Johnson is the latest University of Iowa alumna to have her accomplishments enshrined in memory, becoming the new official eponym for Johnson County.",
+          "copyright": "Family photo"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/24/multimedia/24xp-merle-johnson-1/24xp-merle-johnson-1-articleInline-v3.jpg",
+          "format": "Normal",
+          "height": 254,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Lulu Merle Johnson is the latest University of Iowa alumna to have her accomplishments enshrined in memory, becoming the new official eponym for Johnson County.",
+          "copyright": "Family photo"
+        }
+      ],
+      "short_url": "https://nyti.ms/3jpyM6v"
+    },
+    {
+      "section": "world",
+      "subsection": "europe",
+      "title": "Gibraltar Votes to Ease Abortion Restrictions",
+      "abstract": "Voters decided by a wide margin to lift a near-ban on the procedure, which had been one of the strictest such laws in Europe.",
+      "url": "https://www.nytimes.com/2021/06/24/world/europe/gibraltar-abortion-law.html",
+      "uri": "nyt://article/3dbae954-6b94-5b3b-8212-6023bd910924",
+      "byline": "By Raphael Minder",
+      "item_type": "Article",
+      "updated_date": "2021-06-24T21:03:58-04:00",
+      "created_date": "2021-06-24T20:32:11-04:00",
+      "published_date": "2021-06-24T20:32:11-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Referendums",
+        "Abortion"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Gibraltar",
+        "Europe",
+        "Great Britain"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/06/24/lens/24gibralter-photo/merlin_189814062_c243498b-988f-49bb-b0d8-36be1869b50a-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Casting a vote during Thursday’s referendum. More than 60 percent of voters backed the changes.",
+          "copyright": "Jon Nazca/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/24/lens/24gibralter-photo/24gibralter-photo-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Casting a vote during Thursday’s referendum. More than 60 percent of voters backed the changes.",
+          "copyright": "Jon Nazca/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/24/lens/24gibralter-photo/24gibralter-photo-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Casting a vote during Thursday’s referendum. More than 60 percent of voters backed the changes.",
+          "copyright": "Jon Nazca/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/24/lens/24gibralter-photo/merlin_189814062_c243498b-988f-49bb-b0d8-36be1869b50a-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Casting a vote during Thursday’s referendum. More than 60 percent of voters backed the changes.",
+          "copyright": "Jon Nazca/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/24/lens/24gibralter-photo/merlin_189814062_c243498b-988f-49bb-b0d8-36be1869b50a-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Casting a vote during Thursday’s referendum. More than 60 percent of voters backed the changes.",
+          "copyright": "Jon Nazca/Reuters"
+        }
+      ],
+      "short_url": "https://nyti.ms/3ddJokJ"
+    },
+    {
+      "section": "style",
+      "subsection": "",
+      "title": "Crossing Paths Until They Became a Couple",
+      "abstract": "Dr. Noemie Levy wasn’t sure she’d ever see Graham Gottlieb again after their first meeting in Washington. Then they kept bumping into each other on a daily basis.",
+      "url": "https://www.nytimes.com/2021/06/25/style/noemie-levy-graham-gottlieb-wedding.html",
+      "uri": "nyt://article/d2fddf02-d2fe-53ff-a621-77536de12178",
+      "byline": "By Nina Reyes",
+      "item_type": "Article",
+      "updated_date": "2021-06-25T05:00:06-04:00",
+      "created_date": "2021-06-25T05:00:06-04:00",
+      "published_date": "2021-06-25T05:00:06-04:00",
+      "material_type_facet": "",
+      "kicker": "mini-vows",
+      "des_facet": [
+        "Weddings and Engagements"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/06/27/fashion/00LevyGottlieb/00LevyGottlieb-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/27/fashion/00LevyGottlieb/00LevyGottlieb-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/27/fashion/00LevyGottlieb/00LevyGottlieb-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/27/fashion/00LevyGottlieb/00LevyGottlieb-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/27/fashion/00LevyGottlieb/00LevyGottlieb-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        }
+      ],
+      "short_url": "https://nyti.ms/3h7AR3U"
+    },
+    {
+      "section": "world",
+      "subsection": "africa",
+      "title": "Covid Surge in Africa Raises Fears of a Calamity Like India’s",
+      "abstract": "The pandemic is worsening in Africa as more contagious variants spread, vaccinations lag and hospitals in some places are pushed beyond their limits.",
+      "url": "https://www.nytimes.com/2021/06/22/world/africa/africa-covid-crisis-variants.html",
+      "uri": "nyt://article/56b5f2a7-14c7-598d-9a7d-1ddcb022141e",
+      "byline": "By Abdi Latif Dahir",
+      "item_type": "Article",
+      "updated_date": "2021-06-23T15:34:06-04:00",
+      "created_date": "2021-06-22T13:06:16-04:00",
+      "published_date": "2021-06-22T13:06:16-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Disease Rates",
+        "Quarantines",
+        "Vaccination and Immunization",
+        "Politics and Government"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Kenya",
+        "Uganda",
+        "Kisumu (Kenya)",
+        "South Africa",
+        "Africa",
+        "Rwanda",
+        "Tunisia"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/06/21/world/00VIRUS-AFRICA1/merlin_189672168_055f212d-0710-446d-9824-318bd2abd694-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A line to register for coronavirus testing this month in Kisumu County, Kenya.",
+          "copyright": "Brian Otieno for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/21/world/00VIRUS-AFRICA1/00VIRUS-AFRICA1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A line to register for coronavirus testing this month in Kisumu County, Kenya.",
+          "copyright": "Brian Otieno for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/21/world/00VIRUS-AFRICA1/00VIRUS-AFRICA1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A line to register for coronavirus testing this month in Kisumu County, Kenya.",
+          "copyright": "Brian Otieno for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/21/world/00VIRUS-AFRICA1/merlin_189672168_055f212d-0710-446d-9824-318bd2abd694-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A line to register for coronavirus testing this month in Kisumu County, Kenya.",
+          "copyright": "Brian Otieno for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/21/world/00VIRUS-AFRICA1/merlin_189672168_055f212d-0710-446d-9824-318bd2abd694-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A line to register for coronavirus testing this month in Kisumu County, Kenya.",
+          "copyright": "Brian Otieno for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3d2IW98"
+    },
+    {
+      "section": "arts",
+      "subsection": "design",
+      "title": "Rembrandt’s Damaged Masterpiece Is Whole Again, With A.I.’s Help",
+      "abstract": "Sections of “The Night Watch” were cut off in the 18th century and lost. Now, new technology lets viewers imagine how the original work might have looked.",
+      "url": "https://www.nytimes.com/2021/06/23/arts/design/rembrandt-night-watch-artificial-intelligence.html",
+      "uri": "nyt://article/4b6e80a3-1f47-5790-a384-15b0eb17d27f",
+      "byline": "By Nina Siegal",
+      "item_type": "Article",
+      "updated_date": "2021-06-25T01:07:06-04:00",
+      "created_date": "2021-06-23T02:00:10-04:00",
+      "published_date": "2021-06-23T02:00:10-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Restoration and Renovation",
+        "Art",
+        "Artificial Intelligence"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "van Rijn, Rembrandt Harmenszoon"
+      ],
+      "geo_facet": [
+        "Amsterdam (Netherlands)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/06/22/arts/23night-watch1/merlin_189731169_03a63e50-37c5-4396-a3aa-34c2beabb8b5-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "In the 18th century, \u0026ldquo;The Night Watch,\u0026rdquo; now the pride of the Rijksmuseum\u0026rsquo;s collection, was cut on all four sides to fit on a wall in Amsterdam\u0026rsquo;s Town Hall.",
+          "copyright": "Ilvy Njiokiktjien for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/22/arts/23night-watch1/23night-watch1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "In the 18th century, \u0026ldquo;The Night Watch,\u0026rdquo; now the pride of the Rijksmuseum\u0026rsquo;s collection, was cut on all four sides to fit on a wall in Amsterdam\u0026rsquo;s Town Hall.",
+          "copyright": "Ilvy Njiokiktjien for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/22/arts/23night-watch1/23night-watch1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "In the 18th century, \u0026ldquo;The Night Watch,\u0026rdquo; now the pride of the Rijksmuseum\u0026rsquo;s collection, was cut on all four sides to fit on a wall in Amsterdam\u0026rsquo;s Town Hall.",
+          "copyright": "Ilvy Njiokiktjien for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/22/arts/23night-watch1/23night-watch1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "In the 18th century, \u0026ldquo;The Night Watch,\u0026rdquo; now the pride of the Rijksmuseum\u0026rsquo;s collection, was cut on all four sides to fit on a wall in Amsterdam\u0026rsquo;s Town Hall.",
+          "copyright": "Ilvy Njiokiktjien for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/22/arts/23night-watch1/merlin_189731169_03a63e50-37c5-4396-a3aa-34c2beabb8b5-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "In the 18th century, \u0026ldquo;The Night Watch,\u0026rdquo; now the pride of the Rijksmuseum\u0026rsquo;s collection, was cut on all four sides to fit on a wall in Amsterdam\u0026rsquo;s Town Hall.",
+          "copyright": "Ilvy Njiokiktjien for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3xMp6qC"
+    },
+    {
+      "section": "dining",
+      "subsection": "",
+      "title": "21 Easy Summer Dinners You’ll Cook (or Throw Together) on Repeat",
+      "abstract": "Some assembly — but no oven — required.",
+      "url": "https://www.nytimes.com/2021/06/25/dining/easy-summer-dinners.html",
+      "uri": "nyt://article/fef7eb2e-f73a-5212-9aa3-dae0fd24bd15",
+      "byline": "By Tanya Sichynsky",
+      "item_type": "Article",
+      "updated_date": "2021-06-25T05:00:39-04:00",
+      "created_date": "2021-06-25T05:00:39-04:00",
+      "published_date": "2021-06-25T05:00:39-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Cooking and Cookbooks",
+        "Recipes"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/dining/25easydinners-roundup-top-art/merlin_188667876_3c324989-f8de-4431-bf2f-26233e2d05c3-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Linda Xiao for The New York Times. Food Stylist: Monica Pierini."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/dining/25easydinners-roundup-top-art/25easydinners-roundup-top-art-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Linda Xiao for The New York Times. Food Stylist: Monica Pierini."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/dining/25easydinners-roundup-top-art/25easydinners-roundup-top-art-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Linda Xiao for The New York Times. Food Stylist: Monica Pierini."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/dining/25easydinners-roundup-top-art/merlin_188667876_3c324989-f8de-4431-bf2f-26233e2d05c3-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Linda Xiao for The New York Times. Food Stylist: Monica Pierini."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/dining/25easydinners-roundup-top-art/merlin_188667876_3c324989-f8de-4431-bf2f-26233e2d05c3-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Linda Xiao for The New York Times. Food Stylist: Monica Pierini."
+        }
+      ],
+      "short_url": "https://nyti.ms/3xSh3s9"
+    },
+    {
+      "section": "realestate",
+      "subsection": "",
+      "title": "The Best Cities for Cyclists",
+      "abstract": "Bicycle riding has exploded in popularity, but the quality of your rides will vary depending on where you live.",
+      "url": "https://www.nytimes.com/2021/06/24/realestate/the-best-cities-for-cyclists.html",
+      "uri": "nyt://article/1751874e-0930-5f54-b7db-4ab877827acf",
+      "byline": "By Michael Kolomatsky",
+      "item_type": "Article",
+      "updated_date": "2021-06-24T22:30:00-04:00",
+      "created_date": "2021-06-24T09:30:06-04:00",
+      "published_date": "2021-06-24T09:30:06-04:00",
+      "material_type_facet": "",
+      "kicker": "Calculator",
+      "des_facet": [
+        "Real Estate and Housing (Residential)",
+        "Bicycles and Bicycling"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/06/24/realestate/24calculator-1624293028388/24calculator-1624293028388-superJumbo.png",
+          "format": "superJumbo",
+          "height": 683,
+          "width": 1024,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/24/realestate/24calculator-1624293028388/24calculator-1624293028388-thumbStandard.png",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/24/realestate/24calculator-1624293028388/24calculator-1624293028388-thumbLarge.png",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/24/realestate/24calculator-1624293028388/24calculator-1624293028388-mediumThreeByTwo210.png",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/24/realestate/24calculator-1624293028388/24calculator-1624293028388-articleInline.png",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        }
+      ],
+      "short_url": "https://nyti.ms/3xPksbb"
+    },
+    {
+      "section": "us",
+      "subsection": "",
+      "title": "You’re Vaccinated for Covid-19, and You Just Tested Positive. Now What?",
+      "abstract": "Although the risk of vaccinated people becoming infected with the coronavirus is low, it can still happen, the C.D.C. says. Here’s what you need to know.",
+      "url": "https://www.nytimes.com/2021/06/23/us/can-i-get-covid-after-the-vaccine.html",
+      "uri": "nyt://article/7637ae5c-17d4-58ce-a7cd-363e70796654",
+      "byline": "By Johnny Diaz",
+      "item_type": "Article",
+      "updated_date": "2021-06-24T04:10:37-04:00",
+      "created_date": "2021-06-23T09:11:11-04:00",
+      "published_date": "2021-06-23T09:11:11-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Coronavirus Risks and Safety Concerns",
+        "Quarantines",
+        "Vaccination and Immunization",
+        "Coronavirus (2019-nCoV)"
+      ],
+      "org_facet": [
+        "Centers for Disease Control and Prevention"
+      ],
+      "per_facet": [
+        "Maher, Bill"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/06/16/us/politics/00xp-virus-vaccinated/merlin_187608558_2f2f0ba1-380c-4710-8b14-5dd1a605f98a-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A vaccination site in El Paso, Texas, in May. Although the risk of vaccinated people becoming infected with the coronavirus is low, it can still happen, according to the Centers for Disease Control and Prevention and doctors.",
+          "copyright": "Jose Luis Gonzalez/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/16/us/politics/00xp-virus-vaccinated/merlin_187608558_2f2f0ba1-380c-4710-8b14-5dd1a605f98a-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A vaccination site in El Paso, Texas, in May. Although the risk of vaccinated people becoming infected with the coronavirus is low, it can still happen, according to the Centers for Disease Control and Prevention and doctors.",
+          "copyright": "Jose Luis Gonzalez/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/16/us/politics/00xp-virus-vaccinated/merlin_187608558_2f2f0ba1-380c-4710-8b14-5dd1a605f98a-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A vaccination site in El Paso, Texas, in May. Although the risk of vaccinated people becoming infected with the coronavirus is low, it can still happen, according to the Centers for Disease Control and Prevention and doctors.",
+          "copyright": "Jose Luis Gonzalez/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/16/us/politics/00xp-virus-vaccinated/merlin_187608558_2f2f0ba1-380c-4710-8b14-5dd1a605f98a-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A vaccination site in El Paso, Texas, in May. Although the risk of vaccinated people becoming infected with the coronavirus is low, it can still happen, according to the Centers for Disease Control and Prevention and doctors.",
+          "copyright": "Jose Luis Gonzalez/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/16/us/politics/00xp-virus-vaccinated/merlin_187608558_2f2f0ba1-380c-4710-8b14-5dd1a605f98a-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A vaccination site in El Paso, Texas, in May. Although the risk of vaccinated people becoming infected with the coronavirus is low, it can still happen, according to the Centers for Disease Control and Prevention and doctors.",
+          "copyright": "Jose Luis Gonzalez/Reuters"
+        }
+      ],
+      "short_url": "https://nyti.ms/3gUMpHP"
+    }
+  ]
+}
